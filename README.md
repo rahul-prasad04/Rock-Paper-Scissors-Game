@@ -11,7 +11,8 @@ This is a graphical version of the classic "Rock, Paper, Scissors" game built us
 
 ## Screenshots
 
-(SOON...)
+![game](https://github.com/user-attachments/assets/b538c4aa-92f7-4039-86e8-96cf9a81d3ca)
+
 
 ## How to Run the Game
 
