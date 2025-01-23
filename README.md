@@ -64,7 +64,6 @@ This is a graphical version of the classic "Rock, Paper, Scissors" game built us
 ## License
 This project is open-source and available under the MIT License.
 ### Author
-Developed by [Your Name](https://github.com/your-username)
+Developed by [Rahul Prasad](https://github.com/rahul-prasad04)
 
 Feel free to fork this project, submit pull requests, or open issues for any suggestions or improvements!
-
