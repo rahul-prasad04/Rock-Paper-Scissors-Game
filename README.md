@@ -57,6 +57,12 @@ This is a graphical version of the classic "Rock, Paper, Scissors" game built us
 5. Use the `Reset Game` button to reset the game scores.
 6. Toggle between Dark and Light themes using the `Toggle Theme` button.
 
+## Demo video
+
+
+https://github.com/user-attachments/assets/39619576-041a-4576-976e-7de092960478
+
+
 ## Customization
 - You can replace the `.png` images with your own images to personalize the game.
 - Modify the theme colors in the `themes` dictionary to suit your preferences.
